@@ -1,1 +1,3 @@
-programming-ii-misc-homework
+# COMP 151
+
+Programming II with Dr. Ragsdale
